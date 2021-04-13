@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is our relatime pizza app",
   "main": "index.js",
+  "engines": {
+    "node": "12.16.2",
+    "npm": "6.13.4"
+  },
   "author": "Coder's Gyan",
   "scripts": {
     "serve": "node server.js",
